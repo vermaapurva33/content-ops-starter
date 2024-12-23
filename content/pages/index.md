@@ -8,7 +8,8 @@ sections:
         title: BUSINESS CARNIVAL
         tagline: Feature 1
         subtitle: ''
-        text: ''
+        text: |
+          12th February 2025 - 16th February 2025
         image:
           type: ImageBlock
           url: /images/WhatsApp Image 2024-12-23 at 15.24.01.jpeg
