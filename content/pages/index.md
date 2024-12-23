@@ -170,7 +170,7 @@ sections:
   - subtitle: Event Sponsors
     images:
       - url: /images/resixe5.jpg
-        altText: Wellster logo
+        altText: coming soon
         type: ImageBlock
       - url: /images/resixe5.jpg
         altText: coming soon
