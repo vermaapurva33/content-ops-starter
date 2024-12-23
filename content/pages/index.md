@@ -185,7 +185,7 @@ sections:
         altText: Sanity logo
         type: ImageBlock
       - url: /images/empathy-logo.svg
-        altText: Rangle logo
+        altText: Coming Soon
         type: ImageBlock
     motion: move-to-left
     colors: bg-light-fg-dark
