@@ -2,6 +2,42 @@
 title: Home
 slug: /
 sections:
+  - type: CarouselSection
+    items:
+      - type: FeaturedItem
+        title: BUSINESS CARNIVAL
+        tagline: Feature 1
+        subtitle: ''
+        text: |+
+          ### 12th February 2025 - 16th February 2025
+
+        image:
+          type: ImageBlock
+          url: /images/WhatsApp Image 2024-12-23 at 15.24.01.jpeg
+          altText: Featured item
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+    variant: tabs-nav
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - type: GenericSection
     title:
       text: TRISHNA' 25

@@ -32,18 +32,6 @@
     },
     "socialLinks": [
         {
-            "altText": "GitHub link",
-            "url": "https://github.com/netlify",
-            "icon": "github",
-            "type": "Social"
-        },
-        {
-            "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
-            "icon": "twitter",
-            "type": "Social"
-        },
-        {
             "altText": "LinkedIn link",
             "url": "https://www.linkedin.com/company/netlify",
             "icon": "linkedin",
@@ -54,6 +42,13 @@
             "url": "/",
             "icon": "mail",
             "type": "Social"
+        },
+        {
+            "type": "Social",
+            "altText": "Instagram link",
+            "url": "/",
+            "icon": "instagram",
+            "elementId": ""
         }
     ],
     "legalLinks": [
