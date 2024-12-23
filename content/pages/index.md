@@ -270,7 +270,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: '"Leaders Shaping the Future, One Idea at a Time"'
+    subtitle: ''
     items: []
     variant: three-col-grid
     colors: bg-neutral-fg-dark
