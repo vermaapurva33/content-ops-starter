@@ -270,7 +270,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Featured items section subtitle
+    subtitle: '"Leaders Shaping the Future, One Idea at a Time"'
     items:
       - title: Feature Item One
         tagline: This is the tagline
