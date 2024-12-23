@@ -17,6 +17,17 @@
                 "type": "Link"
             },
             {
+                "type": "Link",
+                "label": "See Tutorials",
+                "altText": "",
+                "url": "https://www.iiitdmj.ac.in/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            },
+            {
                 "type": "Button",
                 "label": "OUR INSTITUTE",
                 "altText": "OUR INSTITUTE",
