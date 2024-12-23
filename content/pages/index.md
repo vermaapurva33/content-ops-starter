@@ -9,9 +9,10 @@ sections:
       type: TitleBlock
     subtitle: Where Innovation Meets Opportunity
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Business Carnival 2025 is more than just an event—it’s a movement to
+      empower India’s brightest minds. From February 12-16, immerse yourself in
+      a transformative experience packed with hackathons, workshops, and speaker
+      sessions featuring industry giants.
     actions:
       - label: Get started
         altText: ''
