@@ -360,10 +360,29 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Have questions? We're here to help!
-    text: >
+    text: >+
       Whether you want to know more about Business Carnival 2025, participate in
       our events, or partner with us, feel free to reach out. We’d love to hear
       from you and will get back to you as soon as possible.
+
+
+      OM PARATE
+
+
+      +91 9589115355
+
+
+      EMAIL:-Work.omparate\@gmail.com
+
+
+      NITIN PANDEY
+
+
+      +91 7016208803
+
+
+      EMAIL:- Nitin2005p\@gmail.com
+
     badge:
       label: Contact Us
       color: text-primary
