@@ -9,8 +9,7 @@
         "title": "Product",
         "links": [
             {
-                "label": "",
-                "altText": "Features page",
+                "label": "CONTACT US",
                 "url": "/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -18,7 +17,8 @@
                 "type": "Link"
             },
             {
-                "label": "CONTACT US",
+                "label": "",
+                "altText": "Features page",
                 "url": "/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
