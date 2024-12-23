@@ -173,7 +173,7 @@ sections:
         altText: Wellster logo
         type: ImageBlock
       - url: /images/resixe5.jpg
-        altText: Vise logo
+        altText: coming soon
         type: ImageBlock
       - url: /images/telus-logo.svg
         altText: Telus logo
