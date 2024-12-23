@@ -17,13 +17,15 @@
                 "type": "Link"
             },
             {
-                "label": "",
-                "altText": "Features page",
-                "url": "/",
+                "type": "Link",
+                "label": "OUR INSTITUTE",
+                "altText": "",
+                "url": "https://www.iiitdmj.ac.in/",
+                "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
-                "type": "Link"
+                "elementId": ""
             }
         ],
         "type": "FooterLinksGroup"
