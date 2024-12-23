@@ -264,7 +264,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: SPEAKERS
+      text: Meet Our Visionary Speakers
       color: text-primary
       styles:
         self:
