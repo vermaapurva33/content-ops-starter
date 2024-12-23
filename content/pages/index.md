@@ -169,7 +169,7 @@ sections:
         textAlign: center
   - subtitle: Event Sponsors
     images:
-      - url: /images/wellster-logo.svg
+      - url: /images/resixe5.jpg
         altText: Wellster logo
         type: ImageBlock
       - url: /images/resixe5.jpg
