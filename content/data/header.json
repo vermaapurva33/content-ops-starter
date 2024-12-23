@@ -9,20 +9,11 @@
             }
         },
         "type": "ImageBlock",
-        "url": "/images/ecell (1).jpeg"
+        "url": "/images/Final_logo_PNG_file_optimized.png"
     },
     "primaryLinks": [
         {
             "label": "Home",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "Blog",
-            "altText": "Blog",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -93,5 +84,5 @@
     "variant": "logo-left-primary-nav-centered",
     "colors": "bg-light-fg-dark",
     "type": "Header",
-    "title": "IIITDM Jabalpur"
+    "title": "TRISHNA 25"
 }
