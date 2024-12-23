@@ -60,7 +60,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Unmissable Experiences Await
     items:
       - type: FeaturedItem
         title: Vidhyan
