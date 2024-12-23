@@ -61,7 +61,7 @@ sections:
       color: text-dark
       styles:
         self:
-          textAlign: center
+          textAlign: left
       type: TitleBlock
     subtitle: Unmissable Experiences Await
     items:
