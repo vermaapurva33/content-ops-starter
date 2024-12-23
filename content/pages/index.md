@@ -169,9 +169,6 @@ sections:
         textAlign: center
   - subtitle: sponsors
     images:
-      - url: /images/26690.jpg
-        altText: Empathy logo
-        type: ImageBlock
       - url: /images/wellster-logo.svg
         altText: Wellster logo
         type: ImageBlock
