@@ -360,11 +360,10 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Have questions? We're here to help!
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Whether you want to know more about Business Carnival 2025, participate in
+      our events, or partner with us, feel free to reach out. We’d love to hear
+      from you and will get back to you as soon as possible.
     media:
       fields:
         - name: name
