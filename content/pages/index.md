@@ -178,7 +178,7 @@ sections:
       - url: /images/resixe5.jpg
         altText: coming soon
         type: ImageBlock
-      - url: /images/sanity-logo.svg
+      - url: /images/resixe5.jpg
         altText: Sanity logo
         type: ImageBlock
       - url: /images/empathy-logo.svg
