@@ -179,7 +179,7 @@ sections:
         altText: coming soon
         type: ImageBlock
       - url: /images/resixe5.jpg
-        altText: Sanity logo
+        altText: coming soon
         type: ImageBlock
       - url: /images/empathy-logo.svg
         altText: Coming Soon
