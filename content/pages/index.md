@@ -7,7 +7,7 @@ sections:
       - type: FeaturedItem
         title: BUSINESS CARNIVAL
         tagline: Feature 1
-        subtitle: Increase your reach
+        subtitle: ''
         text: ''
         image:
           type: ImageBlock
