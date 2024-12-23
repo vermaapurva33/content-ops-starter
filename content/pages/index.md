@@ -214,11 +214,16 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: '"Celebrating Diversity, Creativity, and Unity"'
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      End day on a high note with an evening filled with music, dance, and
+      creativity. Witness breathtaking performances that celebrate the diversity
+      of cultures from across India and beyond. From traditional folk dances to
+      modern beats, and everything in between, Cultural Night is a celebration
+      of innovation and artistry coming together.
+
+
+      Network, unwind, and let the festive atmosphere inspire you to think
+      beyond boundaries.
     actions: []
     media:
       title: Title of the video
