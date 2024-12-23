@@ -43,7 +43,7 @@ sections:
       text: TRISHNA' 25
       color: text-dark
       type: TitleBlock
-    subtitle: Where Innovation Meets Opportunity
+    subtitle: Where Ideas Meets Opportunity
     text: >
       Business Carnival 2025 is more than just an event—it’s a movement to
       empower India’s brightest minds. From February 12-16, immerse yourself in
