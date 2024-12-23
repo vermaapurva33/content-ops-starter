@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Business Carnival
+      text: Trishna
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
