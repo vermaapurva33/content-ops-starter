@@ -227,7 +227,7 @@ sections:
     actions: []
     media:
       title: Title of the video
-      url: Untitled ‑ Made with FlexClip.mp4
+      url: 'https://www.youtube.com/watch?v=jKKm9O-TN70'
       autoplay: true
       loop: true
       muted: true
