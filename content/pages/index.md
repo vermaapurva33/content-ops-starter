@@ -366,7 +366,7 @@ sections:
       from you and will get back to you as soon as possible.
     media:
       fields:
-        - name: name
+        - name: ''
           label: Name
           hideLabel: true
           placeholder: Your name
