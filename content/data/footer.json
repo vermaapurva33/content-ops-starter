@@ -28,17 +28,6 @@
                 "elementId": ""
             },
             {
-                "type": "Button",
-                "label": "OUR INSTITUTE",
-                "altText": "OUR INSTITUTE",
-                "url": "https://www.iiitdmj.ac.in/",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "elementId": ""
-            },
-            {
                 "type": "Link",
                 "label": "See Tutorials",
                 "altText": "",
