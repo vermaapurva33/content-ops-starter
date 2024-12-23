@@ -28,7 +28,7 @@
             {
                 "type": "Button",
                 "label": "OUR INSTITUTE",
-                "altText": "",
+                "altText": "OUR INSTITUTE",
                 "url": "https://www.iiitdmj.ac.in/",
                 "showIcon": false,
                 "icon": "arrowRight",
