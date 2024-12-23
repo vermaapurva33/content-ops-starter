@@ -14,7 +14,7 @@ sections:
           explicabo.
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/WhatsApp Image 2024-12-23 at 15.24.01.jpeg
           altText: Featured item
           styles:
             self:
