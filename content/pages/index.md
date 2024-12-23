@@ -64,7 +64,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Vidhyan
-        subtitle: Numbers Done
+        subtitle: '" Innovate , Collaborate , Dominate "'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
