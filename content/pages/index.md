@@ -264,7 +264,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Meet Our Visionary Speakers
+      text: Stay tuned as we unveil the future of innovation and entrepreneurship.
       color: text-primary
       styles:
         self:
