@@ -9,7 +9,7 @@ sections:
         tagline: Feature 1
         subtitle: ''
         text: |+
-          # 12th February 2025 - 16th February 2025
+          ## **12th February 2025 - 16th February 2025**
 
         image:
           type: ImageBlock
