@@ -14,7 +14,7 @@ sections:
       a transformative experience packed with hackathons, workshops, and speaker
       sessions featuring industry giants.
     actions:
-      - label: Get started
+      - label: Coming soon
         altText: ''
         url: /
         showIcon: false
