@@ -176,7 +176,7 @@ sections:
         altText: coming soon
         type: ImageBlock
       - url: /images/resixe5.jpg
-        altText: Telus logo
+        altText: coming soon
         type: ImageBlock
       - url: /images/sanity-logo.svg
         altText: Sanity logo
