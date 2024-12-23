@@ -17,7 +17,7 @@ sections:
       - label: Coming soon
         altText: ''
         url: /
-        showIcon: true
+        showIcon: false
         icon: arrowRight
         iconPosition: right
         style: secondary
