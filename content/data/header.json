@@ -75,7 +75,7 @@
         {
             "label": "Coming soon",
             "altText": "Coming soon",
-            "url": "https://app.netlify.com/signup",
+            "url": "",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
