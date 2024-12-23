@@ -181,7 +181,7 @@ sections:
       - url: /images/resixe5.jpg
         altText: coming soon
         type: ImageBlock
-      - url: /images/empathy-logo.svg
+      - url: /images/resixe5.jpg
         altText: Coming Soon
         type: ImageBlock
     motion: move-to-left
