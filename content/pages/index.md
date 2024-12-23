@@ -227,7 +227,7 @@ sections:
     actions: []
     media:
       title: Title of the video
-      url: /home/apurva-verma/Downloads
+      url: Untitled ‑ Made with FlexClip.mp4
       autoplay: true
       loop: true
       muted: true
