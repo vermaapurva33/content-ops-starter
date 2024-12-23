@@ -75,7 +75,7 @@
         {
             "label": "Coming soon",
             "altText": "Coming soon",
-            "url": "",
+            "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
