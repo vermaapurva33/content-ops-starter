@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: TRISHNA'25
+      text: TRISHNA' 25
       color: text-dark
       type: TitleBlock
     subtitle: Where Innovation Meets Opportunity
