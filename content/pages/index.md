@@ -167,7 +167,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: sponsors
+  - subtitle: Event Sponsors
     images:
       - url: /images/wellster-logo.svg
         altText: Wellster logo
