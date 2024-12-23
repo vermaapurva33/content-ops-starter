@@ -8,10 +8,7 @@ sections:
         title: BUSINESS CARNIVAL
         tagline: Feature 1
         subtitle: Increase your reach
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: ''
         image:
           type: ImageBlock
           url: /images/WhatsApp Image 2024-12-23 at 15.24.01.jpeg
