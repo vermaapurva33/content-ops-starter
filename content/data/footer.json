@@ -17,15 +17,6 @@
                 "type": "Link"
             },
             {
-                "label": "",
-                "altText": "Features page",
-                "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
                 "type": "Button",
                 "label": "OUR INSTITUTE",
                 "altText": "OUR INSTITUTE",
@@ -35,6 +26,15 @@
                 "iconPosition": "right",
                 "style": "secondary",
                 "elementId": ""
+            },
+            {
+                "label": "",
+                "altText": "Features page",
+                "url": "/",
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "type": "Link"
             }
         ],
         "type": "FooterLinksGroup"
